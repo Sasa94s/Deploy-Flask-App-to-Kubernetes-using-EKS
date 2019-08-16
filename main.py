@@ -1,3 +1,4 @@
+#!/usr/bin python3
 """
 A simple app to create a JWT token.
 """
