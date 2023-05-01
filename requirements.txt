@@ -1,4 +1,4 @@
 pyjwt==1.6.0
-flask==1.1.1
+flask==2.3.2
 gunicorn==19.9.0
 pytest==5.0.1
